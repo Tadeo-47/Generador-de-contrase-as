@@ -1,6 +1,6 @@
 # Generador Seguro de Contraseñas
 
-Proyecto desarrollado para la asignatura de Lógica de Programación.
+Proyecto autonomo 2 Lógica de Programación.
 
 ## Objetivo
 
